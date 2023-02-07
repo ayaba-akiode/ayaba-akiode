@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayaba-akiode
+- 👋 Hi, my name is Oluwakemi Akiode
 - 👀 I’m passionate about generating useful insights from data.
 - 🌱 I’m currently learning SQL, MS- EXCEL, POWER BI, TABLEAU and PYTHON.
 - 💞️ I’m open to collaborate on projects that will help me sharpen my skills.
