@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayaba-akiode
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and PHP.
-- 💞️ I’m looking to collaborate on projects that will help me develop my skills.
+- 👀 I’m passionate about generating useful insights from data.
+- 🌱 I’m currently learning SQL, MS- EXCEL, POWER BI, TABLEAU and PYTHON.
+- 💞️ I’m open to collaborate on projects that will help me sharpen my skills.
 - 📫 I can be reached on adepojuoluwakemi@yahoo.com
 
 <!---
